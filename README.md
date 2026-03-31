@@ -124,8 +124,12 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ## Conecta conmigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dayanna-rocca-cortez-218535278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayanna-rocca-cortez" height="30" width="40" /></a>
-  <a href="mailto:roccacortezdayanna@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  <a href="https://www.linkedin.com/in/dayanna-rocca-cortez-218535278/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:roccacortezdayanna@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 
@@ -134,7 +138,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ![](https://github-profile-trophy.vercel.app/?username=DayannaRocca&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
-  <img src="https://github.com/Rcdy2/Rcdy2/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <h2 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h2>

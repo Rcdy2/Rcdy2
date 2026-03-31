@@ -15,7 +15,7 @@
   <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>
 </p>
 
----
+
 
 ## Sobre Mí
 
@@ -27,7 +27,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 - **Automatizaciones**: Desarrollo flujos con **n8n** para integraciones y automatización de tareas repetitivas, así como scripts en **Python** que trabajan con **Excel** (macros, Power Query, tablas dinámicas) para generar dashboards interactivos y reportes ejecutivos.
 - Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
 
----
+
 
 ##  &nbsp;Tech Stack
 

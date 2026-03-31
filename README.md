@@ -2,6 +2,11 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
+<h3 align="center">
+  Hola, soy Dayanna Rocca
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Especialista+en+Procesos+y+Documentación;Apasionada+por+la+mejora+continua;Siempre+aprendiendo+nuevas+tecnologías;&;center=true&width=500&height=45&color=8B5CF6"></a>
 </p>

@@ -153,7 +153,7 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<h3 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h3>
+<h2 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h2>
 
 <br>
 

@@ -50,6 +50,10 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ![BPMN](https://img.shields.io/badge/BPMN-6A1B9A?style=for-the-badge&logo=bpmn&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
 
+#### Automatización y Orquestación
+![n8n](https://img.shields.io/badge/n8n-1C6C5C?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+
 #### IDEs y Editores
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -63,17 +67,75 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 ## Experiencia Destacada
 
-- **Desarrolladora Back-End Freelance** (Sistema POS para Restaurantes) – *2025-2026*
-  Desarrollo de sistema en ASP.NET Core MVC con SQL Server, implementación de módulos de usuarios, ventas y control de roles.
+<div style="position: relative; margin: 2rem 0;">
+  <!-- Línea central -->
+  <div style="position: absolute; left: 50%; transform: translateX(-50%); width: 4px; height: 100%; background: linear-gradient(180deg, #8B5CF6, #6D28D9); border-radius: 2px;"></div>
 
-- **Devdatep Consulting E.I.R.L. – Practicante Analista de Documentación** – *2025*
-  Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi, elaboración de documentación técnica/funcional y gestión de requerimientos bajo Scrum.
+  <!-- Experiencia 1: Freelance -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
+    <div style="width: 45%; text-align: right; padding-right: 2rem;">
+      <h3 style="margin: 0; color: #8B5CF6;">Desarrolladora Back-End Freelance</h3>
+      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Sistema POS para Restaurantes | 2025 – 2026</p>
+    </div>
+    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-left: 3px solid #8B5CF6; border-radius: 0 8px 8px 0; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <ul style="margin: 0; padding-left: 1.2rem;">
+        <li>Desarrollo de sistema en ASP.NET Core MVC con SQL Server</li>
+        <li>Implementación de módulos de usuarios, ventas y control de roles</li>
+        <li>Diseño de base de datos (tablas, consultas, procedimientos almacenados)</li>
+        <li>Uso de IA como apoyo en desarrollo y validación de código</li>
+      </ul>
+    </div>
+  </div>
 
-- **Red Integral de Salud Lurín – Practicante Administrativo/Soporte TI** – *2025*
-  Soporte técnico de primer nivel, gestión de bases de datos internas, creación de manuales de usuario y reportes en Excel.
+  <!-- Experiencia 2: Devdatep -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
+    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-right: 3px solid #8B5CF6; border-radius: 8px 0 0 8px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <ul style="margin: 0; padding-left: 1.2rem;">
+        <li>Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi</li>
+        <li>Elaboración de documentación técnica/funcional y manuales de usuario</li>
+        <li>Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira)</li>
+        <li>Benchmarking y análisis de modelo de negocio para mejora de plataformas web</li>
+      </ul>
+    </div>
+    <div style="width: 45%; text-align: left; padding-left: 2rem;">
+      <h3 style="margin: 0; color: #8B5CF6;">Devdatep Consulting E.I.R.L.</h3>
+      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Practicante Analista de Documentación | 2025</p>
+    </div>
+  </div>
 
-- **Corte Superior de Justicia de Lima Sur – Voluntariado Judicial (Apoyo Informático)** – *2024*
-  Gestión de tickets en GLPI, soporte técnico a usuarios y organización de documentación institucional.
+  <!-- Experiencia 3: Red de Salud -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
+    <div style="width: 45%; text-align: right; padding-right: 2rem;">
+      <h3 style="margin: 0; color: #8B5CF6;">Red Integral de Salud Lurín y Balnearios</h3>
+      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Practicante Administrativo/Soporte TI | 2025</p>
+    </div>
+    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-left: 3px solid #8B5CF6; border-radius: 0 8px 8px 0; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <ul style="margin: 0; padding-left: 1.2rem;">
+        <li>Soporte técnico de primer nivel (equipos, impresoras, redes)</li>
+        <li>Gestión y actualización de bases de datos internas con Excel</li>
+        <li>Elaboración de manuales de usuario y documentación de procesos</li>
+        <li>Control de accesos y autenticación de usuarios</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Experiencia 4: Corte Superior -->
+  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
+    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-right: 3px solid #8B5CF6; border-radius: 8px 0 0 8px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <ul style="margin: 0; padding-left: 1.2rem;">
+        <li>Atención de incidencias y gestión de tickets en GLPI</li>
+        <li>Soporte técnico de primer nivel y mantenimiento preventivo</li>
+        <li>Digitalización y organización documental</li>
+        <li>Gestión de accesos, firmas digitales y autenticación de usuarios</li>
+      </ul>
+    </div>
+    <div style="width: 45%; text-align: left; padding-left: 2rem;">
+      <h3 style="margin: 0; color: #8B5CF6;">Corte Superior de Justicia de Lima Sur</h3>
+      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Voluntariado Judicial (Apoyo Informático) | 2024</p>
+    </div>
+  </div>
+</div>
+
 
 
 

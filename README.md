@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI (N1 → N2)+|+Gestión de tickets (GLPI)+|+Resolución de incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=600&height=70&color=8B5CF6">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=700&height=70&color=8B5CF6">
   </a>
 </p>
 

@@ -19,13 +19,14 @@
 
 ## Sobre Mí
 
-Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis de procesos**, **documentación técnica y funcional**, y **apoyo a proyectos TI**. Me especializo en transformar procesos operativos en soluciones claras y eficientes utilizando metodologías ágiles como Scrum.
+Egresada de Ingeniería de Sistemas e Informática con un perfil versátil que combina **desarrollo backend**, **análisis de procesos**, **documentación técnica** y **soporte TI**. Me desenvuelvo en múltiples áreas:
 
-- Me apasiona **la mejora continua** y la optimización de servicios.
-- Uso **Excel, Power BI y SQL** para el análisis de datos y la generación de reportes clave.
-- Integro herramientas de **IA generativa (ChatGPT, Copilot, DeepSeek)** como apoyo en investigación, estructuración de contenidos y documentación.
-- **Automatizaciones**: Desarrollo flujos con **n8n** para integraciones y automatización de tareas repetitivas, así como scripts en **Python** que trabajan con **Excel** (macros, Power Query, tablas dinámicas) para generar dashboards interactivos y reportes ejecutivos.
-- Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
+- **Desarrollo y programación**: Experiencia en **ASP.NET Core MVC** (sistemas B2B) y **Python** para automatización de tareas repetitivas, integración de datos y generación de reportes automatizados.
+- **Automatización y orquestación**: Diseño flujos en **n8n** para conectar aplicaciones y automatizar procesos, complementados con scripts en Python que manipulan Excel (macros, Power Query, tablas dinámicas) para crear dashboards interactivos y reportes ejecutivos.
+- **Análisis de procesos y documentación**: Especialista en levantamiento de procesos **AS-IS / TO-BE** con **BPMN** y **Bizagi**, elaboración de documentación funcional/técnica, manuales de usuario y diagramas de flujo que facilitan la comprensión y estandarización.
+- **Soporte TI**: Experiencia en atención de incidencias, gestión de tickets (**GLPI**), soporte de primer nivel con proyección a nivel 2, mantenimiento preventivo y gestión de accesos.
+
+Siempre en búsqueda de la mejora continua, integrando herramientas de IA generativa (ChatGPT, Copilot, DeepSeek) para optimizar la investigación y estructuración de contenidos.
 
 
 
@@ -162,6 +163,6 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 <h2 align='center'>Gracias por visitar mi perfil</h2>
 <br>
 
-<div align="center" width="100%">
-  <img src="https://capsule-render.vercel.app/api?color=0:8B5CF6,50:7C3AED,100:6D28D9&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?color=0:8B5CF6,50:7C3AED,100:6D28D9&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
 </div>

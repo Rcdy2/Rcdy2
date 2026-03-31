@@ -2,23 +2,23 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: nowrap; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 0; text-align: left;">
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; border: none;">
+  <div style="text-align: center; border: none;">
     <h3 style="margin-bottom: 0;">
       Hola, soy Dayanna Rocca
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h3>
-    <p style="margin: 0;">
+    <p>
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=600&height=70&color=8B5CF6">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=700&height=70&color=8B5CF6">
       </a>
     </p>
   </div>
-  <div style="flex-shrink: 0; text-align: right;">
-    <img src="img/perfil.jpg" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
+  <div style="text-align: center; border: none;">
+    <img src="img/perfil.jpg" alt="Dayanna Rocca" width="200" style="border-radius: 50%; border: none;">
   </div>
 </div>
-
 
 
 <p align="center">

@@ -2,7 +2,7 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
-<table align="center" style="border: none; width: 100%;">
+<table align="center" border="0" style="border: none; width: 100%;">
   <tr>
     <td style="border: none; vertical-align: middle; text-align: center;">
       <h3 align="center" style="margin-bottom: 0;">
@@ -16,7 +16,7 @@
       </p>
     </td>
     <td style="border: none; vertical-align: middle; text-align: center;">
-      <img src="URL_DE_TU_FOTO" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
+      <img src="img/foto.png" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
     </td>
   </tr>
 </table>

@@ -6,7 +6,7 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; border: none;">
   <div style="text-align: center; border: none;">
     <h3 style="margin-bottom: 0;">
-      Hola, soy Dayanna Rocca
+      Hola, soy Dayanna Rocca Cortez
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     </h3>
     <p>

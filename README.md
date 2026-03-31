@@ -160,8 +160,8 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-<h2 align='center'>Gracias por visitar mi perfil</h2>
-<br>
+<h4 align='center'>Gracias por visitar mi perfil</h4>
+
 
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?color=0:8B5CF6,50:7C3AED,100:6D28D9&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />

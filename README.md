@@ -158,13 +158,6 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DayannaRocca&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <h2 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h2>
 
 <br>

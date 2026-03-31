@@ -8,7 +8,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Especialista+en+Procesos+y+Documentación;Apasionada+por+la+mejora+continua;Siempre+aprendiendo+nuevas+tecnologías;&;center=true&width=500&height=45&color=8B5CF6"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+BPMN+|+Bizagi;Desarrolladora+Back-End+|+ASP.NET+|+Python;Automatización+|+n8n+|+Python+|+Excel;Soporte+TI+Nivel+1+|+GLPI+|+AnyDesk;Freelance+|+Sistemas+POS+B2B;Siempre+aprendiendo+nuevas+tecnologías;&;center=true&width=600&height=60&color=8B5CF6">
+  </a>
 </p>
 
 <p align="center">

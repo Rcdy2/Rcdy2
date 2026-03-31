@@ -89,7 +89,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-
+<p align="center">
+  <img src="https://github.com/Rcdy2/Rcdy2/blob/main/github-user-contribution.svg" alt="snake">
+</p>
 
 <!-- FOOTER -->
 <div align="center" width="100">

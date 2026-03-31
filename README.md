@@ -72,74 +72,41 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 ## Experiencia Destacada
 
-<div style="position: relative; margin: 2rem 0;">
-  <!-- Línea central -->
-  <div style="position: absolute; left: 50%; transform: translateX(-50%); width: 4px; height: 100%; background: linear-gradient(180deg, #8B5CF6, #6D28D9); border-radius: 2px;"></div>
+<details>
+<summary><strong>📌 Desarrolladora Back-End Freelance</strong> – Sistema POS para Restaurantes <em>(2025–2026)</em></summary>
 
-  <!-- Experiencia 1: Freelance -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
-    <div style="width: 45%; text-align: right; padding-right: 2rem;">
-      <h3 style="margin: 0; color: #8B5CF6;">Desarrolladora Back-End Freelance</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Sistema POS para Restaurantes | 2025 – 2026</p>
-    </div>
-    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-left: 3px solid #8B5CF6; border-radius: 0 8px 8px 0; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <ul style="margin: 0; padding-left: 1.2rem;">
-        <li>Desarrollo de sistema en ASP.NET Core MVC con SQL Server</li>
-        <li>Implementación de módulos de usuarios, ventas y control de roles</li>
-        <li>Diseño de base de datos (tablas, consultas, procedimientos almacenados)</li>
-        <li>Uso de IA como apoyo en desarrollo y validación de código</li>
-      </ul>
-    </div>
-  </div>
+- Desarrollo en ASP.NET Core MVC con SQL Server  
+- Implementación de módulos de usuarios, ventas y control de roles  
+- Diseño de base de datos (tablas, consultas, procedimientos almacenados)  
+- Uso de IA como apoyo en desarrollo y validación de código  
+</details>
 
-  <!-- Experiencia 2: Devdatep -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
-    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-right: 3px solid #8B5CF6; border-radius: 8px 0 0 8px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <ul style="margin: 0; padding-left: 1.2rem;">
-        <li>Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi</li>
-        <li>Elaboración de documentación técnica/funcional y manuales de usuario</li>
-        <li>Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira)</li>
-        <li>Benchmarking y análisis de modelo de negocio para mejora de plataformas web</li>
-      </ul>
-    </div>
-    <div style="width: 45%; text-align: left; padding-left: 2rem;">
-      <h3 style="margin: 0; color: #8B5CF6;">Devdatep Consulting E.I.R.L.</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Practicante Analista de Documentación | 2025</p>
-    </div>
-  </div>
+<details>
+<summary><strong>📌 Practicante Analista de Documentación</strong> – Devdatep Consulting E.I.R.L. <em>(2025)</em></summary>
 
-  <!-- Experiencia 3: Red de Salud -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
-    <div style="width: 45%; text-align: right; padding-right: 2rem;">
-      <h3 style="margin: 0; color: #8B5CF6;">Red Integral de Salud Lurín y Balnearios</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Practicante Administrativo/Soporte TI | 2025</p>
-    </div>
-    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-left: 3px solid #8B5CF6; border-radius: 0 8px 8px 0; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <ul style="margin: 0; padding-left: 1.2rem;">
-        <li>Soporte técnico de primer nivel (equipos, impresoras, redes)</li>
-        <li>Gestión y actualización de bases de datos internas con Excel</li>
-        <li>Elaboración de manuales de usuario y documentación de procesos</li>
-        <li>Control de accesos y autenticación de usuarios</li>
-      </ul>
-    </div>
-  </div>
+- Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi  
+- Elaboración de documentación técnica/funcional y manuales de usuario  
+- Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira)  
+- Benchmarking y análisis de modelo de negocio  
+</details>
 
-  <!-- Experiencia 4: Corte Superior -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 3rem; position: relative;">
-    <div style="width: 45%; background: linear-gradient(135deg, rgba(139,92,246,0.1), rgba(109,40,217,0.1)); border-right: 3px solid #8B5CF6; border-radius: 8px 0 0 8px; padding: 1rem; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <ul style="margin: 0; padding-left: 1.2rem;">
-        <li>Atención de incidencias y gestión de tickets en GLPI</li>
-        <li>Soporte técnico de primer nivel y mantenimiento preventivo</li>
-        <li>Digitalización y organización documental</li>
-        <li>Gestión de accesos, firmas digitales y autenticación de usuarios</li>
-      </ul>
-    </div>
-    <div style="width: 45%; text-align: left; padding-left: 2rem;">
-      <h3 style="margin: 0; color: #8B5CF6;">Corte Superior de Justicia de Lima Sur</h3>
-      <p style="margin: 0; font-size: 0.9rem; color: #aaa;">Voluntariado Judicial (Apoyo Informático) | 2024</p>
-    </div>
-  </div>
-</div>
+<details>
+<summary><strong>📌 Practicante Administrativo / Soporte TI</strong> – Red Integral de Salud Lurín <em>(2025)</em></summary>
+
+- Soporte técnico de primer nivel (equipos, impresoras, redes)  
+- Gestión y actualización de bases de datos internas con Excel  
+- Elaboración de manuales de usuario y documentación de procesos  
+- Control de accesos y autenticación de usuarios  
+</details>
+
+<details>
+<summary><strong>📌 Voluntariado Judicial (Apoyo Informático)</strong> – Corte Superior de Justicia <em>(2024)</em></summary>
+
+- Atención de incidencias y gestión de tickets en GLPI  
+- Soporte técnico de primer nivel y mantenimiento preventivo  
+- Digitalización y organización documental  
+- Gestión de accesos, firmas digitales y autenticación  
+</details>
 
 
 

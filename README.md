@@ -26,7 +26,7 @@ Egresada de Ingeniería de Sistemas e Informática con un perfil versátil que c
 - **Análisis de procesos y documentación**: Especialista en levantamiento de procesos **AS-IS / TO-BE** con **BPMN** y **Bizagi**, elaboración de documentación funcional/técnica, manuales de usuario y diagramas de flujo que facilitan la comprensión y estandarización.
 - **Soporte TI**: Experiencia en atención de incidencias, gestión de tickets (**GLPI**), soporte de primer nivel con proyección a nivel 2, mantenimiento preventivo y gestión de accesos.
 
-Siempre en búsqueda de la mejora continua, integrando herramientas de IA generativa (ChatGPT, Copilot, DeepSeek) para optimizar la investigación y estructuración de contenidos.
+Siempre en búsqueda de la mejora continua, integrando herramientas de IA generativa (ChatGPT, Copilot, DeepSeek) para optimizar la investigación y estructuración de contenidos. Siempre en búsqueda de nuevos aprendizajes para aportar valor desde la tecnología y los procesos.
 
 
 
@@ -86,12 +86,13 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 <details>
 <summary><strong>📌 Desarrolladora Back-End Freelance</strong> – Sistema POS B2B para Restaurantes <em>(2025–2026)</em></summary>
-
-- Desarrollo de un sistema **B2B multitenant** en ASP.NET Core MVC con SQL Server, diseñado para múltiples restaurantes con datos aislados por cliente.
-- Implementación de módulos de usuarios, personal, reservas, ventas, órdenes, facturación electrónica e inventario, con control de roles y permisos.
-- Arquitectura escalable que permite a cada restaurante gestionar sus propios productos, promociones y reportes.
-- Diseño optimizado de base de datos (tablas normalizadas, consultas eficientes, procedimientos almacenados para procesos críticos).
+   
+- Desarrollo de un sistema **B2B multitenant** en ASP.NET Core MVC con SQL Server, diseñado para múltiples restaurantes con datos aislados por cliente.  
+- Arquitectura escalable que permite incorporar **nuevos módulos o funcionalidades** según las necesidades de cada negocio.  
+- Implementación de módulos base: usuarios, personal, reservas, ventas, órdenes, control de roles y permisos.  
+- Diseño de base de datos (tablas normalizadas, consultas eficientes, procedimientos almacenados, funciones).  
 - Uso de IA como apoyo en generación de código, validación y pruebas unitarias.
+
 </details>
 
 <details>
@@ -99,7 +100,7 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 - Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi para estandarizar operaciones en proyectos de desarrollo web.
 - Elaboración de documentación técnica/funcional, manuales de usuario y diagramas de flujo, reduciendo tiempos de onboarding.
-- Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira), con reportes de avance e indicadores clave.
+- Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira), con reportes de avance del equipo y seguimiento de colaboradores con indicadores clave.
 - Benchmarking y análisis de modelo de negocio para mejoras en la plataforma Arena Freestyle, incluyendo propuesta funcional de chatbot.
 </details>
 
@@ -108,6 +109,7 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 - Soporte técnico de primer nivel (equipos, impresoras, redes) y mantenimiento preventivo, asegurando continuidad operativa.
 - Gestión y actualización de bases de datos internas con Excel avanzado (Power Query, tablas dinámicas) para seguimiento de personal.
+- Automatización de reportes: desarrollo de scripts en Python que procesan archivos Excel y generan reportes automatizados, reduciendo tiempos de elaboración.
 - Creación de manuales de usuario y documentación de procesos que redujeron errores recurrentes.
 - Control de accesos y autenticación de usuarios en sistemas institucionales.
 </details>

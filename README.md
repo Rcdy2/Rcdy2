@@ -14,15 +14,13 @@
           <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=700&height=70&color=8B5CF6">
         </a>
       </p>
-      <p align="center">
-        <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>
-      </p>
     </td>
     <td style="border: none; vertical-align: middle; text-align: center;">
       <img src="URL_DE_TU_FOTO" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">

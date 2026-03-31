@@ -164,7 +164,7 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 <h2 align='center'>
   <a href="https://github.com/Rcdy2?tab=repositories" target="_blank" style="text-decoration: none; color: inherit;">
-    ⭐ Apóyame dándole ⭐ a algunos de mis repositorios
+     Apóyame dándole ⭐ a algunos de mis repositorios
   </a>
 </h2>
 

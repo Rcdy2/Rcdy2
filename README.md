@@ -158,12 +158,19 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 
 
-<h2 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h2>
+<h2 align='center'>
+  <a href="https://github.com/DayannaRocca?tab=repositories" target="_blank" style="text-decoration: none; color: inherit;">
+    ⭐ Apóyame dándole ⭐ a algunos de mis repositorios
+  </a>
+</h2>
 
 <br>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+  <a href="https://github.com/DayannaRocca?tab=repositories" target="_blank">
+    <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen>
+  </a>
+</p>
 <br>
 
 <h3 align='center'>Gracias por visitar mi perfil</h3>

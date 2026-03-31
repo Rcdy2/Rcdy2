@@ -163,6 +163,10 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
     ⭐ Apóyame dándole ⭐ a algunos de mis repositorios
   </a>
 </h2>
+ <a href="https://github.com/DayannaRocca?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
+  </a>
+
 
 <br>
 
@@ -172,10 +176,6 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
   </a>
 </p>
 <br>
-
- <a href="https://github.com/DayannaRocca?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
-  </a>
 
 <h3 align='center'>Gracias por visitar mi perfil</h3>
 

@@ -16,7 +16,7 @@
       </p>
     </td>
     <td style="border: none; vertical-align: middle; text-align: center;">
-      <img src="img/foto.png" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
+      <img src="img/perfil.jpg" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
     </td>
   </tr>
 </table>

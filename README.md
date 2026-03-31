@@ -162,6 +162,6 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 <h2 align='center'>Gracias por visitar mi perfil</h2>
 <br>
 
-<div align="center" width="120">
+<div align="center" width="200">
   <img src="https://capsule-render.vercel.app/api?color=0:8B5CF6,50:7C3AED,100:6D28D9&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" alt="footer" />
 </div>

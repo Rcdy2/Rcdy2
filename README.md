@@ -93,6 +93,21 @@
   <img src="https://github.com/Rcdy2/Rcdy2/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<br>
+
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
+
+<h2 align='center'>Thank You!!!!!</h2>
+<br>
+
+
 <!-- FOOTER -->
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"

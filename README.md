@@ -2,11 +2,6 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
-<h3 align="center">
-  Hola, soy Dayanna Rocca
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Especialista+en+Procesos+y+Documentación;Apasionada+por+la+mejora+continua;Siempre+aprendiendo+nuevas+tecnologías;&;center=true&width=500&height=45&color=8B5CF6"></a>
 </p>
@@ -17,14 +12,14 @@
 
 ---
 
-## 📝 Sobre Mí
+## Sobre Mí
 
 Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis de procesos**, **documentación técnica y funcional**, y **apoyo a proyectos TI**. Me especializo en transformar procesos operativos en soluciones claras y eficientes utilizando metodologías ágiles como Scrum.
 
-- 🚀 Me apasiona **la mejora continua** y la optimización de servicios.
-- 📊 Uso **Excel, Power BI y SQL** para el análisis de datos y la generación de reportes clave.
-- 🤖 Integro herramientas de **IA generativa (ChatGPT, Copilot, DeepSeek)** como apoyo en investigación, estructuración de contenidos y documentación.
-- 💡 Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
+- Me apasiona **la mejora continua** y la optimización de servicios.
+- Uso **Excel, Power BI y SQL** para el análisis de datos y la generación de reportes clave.
+- Integro herramientas de **IA generativa (ChatGPT, Copilot, DeepSeek)** como apoyo en investigación, estructuración de contenidos y documentación.
+- Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
 
 ---
 
@@ -50,6 +45,15 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Bizagi](https://img.shields.io/badge/Bizagi-0052CC?style=for-the-badge&logo=bizagi&logoColor=white)
+![BPMN](https://img.shields.io/badge/BPMN-6A1B9A?style=for-the-badge&logo=bpmn&logoColor=white)
+![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
+
+#### IDEs y Editores
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 #### Análisis de Datos
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -57,7 +61,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 ---
 
-## 💼 Experiencia Destacada
+## Experiencia Destacada
 
 - **Desarrolladora Back-End Freelance** (Sistema POS para Restaurantes) – *2025-2026*
   Desarrollo de sistema en ASP.NET Core MVC con SQL Server, implementación de módulos de usuarios, ventas y control de roles.
@@ -73,7 +77,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 ---
 
-## 🎓 Educación y Certificaciones
+## Educación y Certificaciones
 
 - **Ingeniería de Sistemas e Informática** – Universidad Tecnológica del Perú (03/2021 – 12/2025) – *Egresada / Bachiller en trámite*
 - **Scrum Foundation Professional Certificate (SFPC)** – CertiProf (2025)
@@ -92,21 +96,21 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DayannaRocca&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img src="https://github.com/Rcdy2/Rcdy2/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
-<h2 align='center'>✨ Apóyame dándole ⭐ a algunos de mis repositorios ✨</h2>
+<h2 align='center'>Apóyame dándole ⭐ a algunos de mis repositorios</h2>
 <br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-<h2 align='center'>¡Gracias por visitar mi perfil! 🚀</h2>
+<h2 align='center'>Gracias por visitar mi perfil</h2>
 <br>
 
 <div align="center" width="100">

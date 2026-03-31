@@ -2,16 +2,28 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
-<h3 align="center">
-  Hola, soy Dayanna Rocca
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<table align="center" style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none; vertical-align: middle; text-align: center;">
+      <h3 align="center" style="margin-bottom: 0;">
+        Hola, soy Dayanna Rocca
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+      </h3>
+      <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=700&height=70&color=8B5CF6">
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>
+      </p>
+    </td>
+    <td style="border: none; vertical-align: middle; text-align: center;">
+      <img src="URL_DE_TU_FOTO" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ingeniera+de+Sistemas+e+Informática;Analista+de+Procesos+|+Documentación+Técnica;Desarrolladora+Back-End+|+ASP.NET+|+Python+|+SQL;Automatización+|+n8n+|+Make+|+Python+|+Excel;Soporte+TI+(N1→N2)+|+GLPI+|+Resolución+de+incidencias+|+AnyDesk;Freelance+|+Desarrollo+y+Automatización;Aprendizaje+continuo+|+Mejora+continua;&;center=true&width=700&height=70&color=8B5CF6">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>

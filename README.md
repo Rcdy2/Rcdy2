@@ -10,7 +10,7 @@
   <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>
 </p>
 
----
+
 
 ## Sobre Mí
 
@@ -21,9 +21,9 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 - Integro herramientas de **IA generativa (ChatGPT, Copilot, DeepSeek)** como apoyo en investigación, estructuración de contenidos y documentación.
 - Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
 
----
 
-## 🛠 &nbsp;Tech Stack
+
+##  &nbsp;Tech Stack
 
 #### Lenguajes y Desarrollo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +59,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+
 
 ## Experiencia Destacada
 
@@ -75,7 +75,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 - **Corte Superior de Justicia de Lima Sur – Voluntariado Judicial (Apoyo Informático)** – *2024*
   Gestión de tickets en GLPI, soporte técnico a usuarios y organización de documentación institucional.
 
----
+
 
 ## Educación y Certificaciones
 
@@ -85,16 +85,16 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 - **Excel con Macros + IA / Análisis de Datos con Excel** – UNI (2025-2026)
 - **SQL Server Intermedio / Python / Power BI Intermedio** – UNI (2025)
 
----
 
-## 📫 Conecta conmigo
+
+## Conecta conmigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dayanna-rocca-cortez-218535278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayanna-rocca-cortez" height="30" width="40" /></a>
   <a href="mailto:roccacortezdayanna@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </p>
 
----
+
 
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DayannaRocca&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)

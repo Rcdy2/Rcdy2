@@ -2,8 +2,8 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&colors=8B5CF6,7C3AED,6D28D9" />
 </div>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; border: none;">
-  <div style="text-align: center; border: none;">
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+  <div style="text-align: left;">
     <h3 style="margin-bottom: 0;">
       Hola, soy Dayanna Rocca
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -14,8 +14,8 @@
       </a>
     </p>
   </div>
-  <div style="text-align: center; border: none;">
-    <img src="img/perfil.jpg" alt="Dayanna Rocca" width="200" style="border-radius: 50%; border: none;">
+  <div style="text-align: right;">
+    <img src="img/perfil.jpg" alt="Dayanna Rocca" width="200" style="border-radius: 50%;">
   </div>
 </div>
 

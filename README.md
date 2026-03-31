@@ -15,7 +15,7 @@
   <a href="https://github.com/DayannaRocca/"><img align="center" alt="Visitas al perfil" src="https://visitor-badge.laobi.icu/badge?page_id=DayannaRocca.DayannaRocca"></a>
 </p>
 
-
+---
 
 ## Sobre Mí
 
@@ -24,9 +24,10 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 - Me apasiona **la mejora continua** y la optimización de servicios.
 - Uso **Excel, Power BI y SQL** para el análisis de datos y la generación de reportes clave.
 - Integro herramientas de **IA generativa (ChatGPT, Copilot, DeepSeek)** como apoyo en investigación, estructuración de contenidos y documentación.
+- **Automatizaciones**: Desarrollo flujos con **n8n** para integraciones y automatización de tareas repetitivas, así como scripts en **Python** que trabajan con **Excel** (macros, Power Query, tablas dinámicas) para generar dashboards interactivos y reportes ejecutivos.
 - Estoy en constante aprendizaje para combinar el análisis de procesos con la tecnología y la inteligencia artificial.
 
-
+---
 
 ##  &nbsp;Tech Stack
 
@@ -51,18 +52,28 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Balsamiq](https://img.shields.io/badge/Balsamiq-FF6600?style=for-the-badge&logo=balsamiq&logoColor=white)
 ![Bizagi](https://img.shields.io/badge/Bizagi-0052CC?style=for-the-badge&logo=bizagi&logoColor=white)
 ![BPMN](https://img.shields.io/badge/BPMN-6A1B9A?style=for-the-badge&logo=bpmn&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-007396?style=for-the-badge&logo=uml&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/AnyDesk-FF6600?style=for-the-badge&logo=anydesk&logoColor=white)
 
 #### Automatización y Orquestación
 ![n8n](https://img.shields.io/badge/n8n-1C6C5C?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
 
+#### Ciencia de Datos y Visión por Computador
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 #### IDEs y Editores
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+
+#### Control de Versiones
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Análisis de Datos
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -73,41 +84,41 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 ## Experiencia Destacada
 
 <details>
-<summary><strong>📌 Desarrolladora Back-End Freelance</strong> – Sistema POS para Restaurantes <em>(2025–2026)</em></summary>
+<summary><strong>📌 Desarrolladora Back-End Freelance</strong> – Sistema POS B2B para Restaurantes <em>(2025–2026)</em></summary>
 
-- Desarrollo en ASP.NET Core MVC con SQL Server  
-- Implementación de módulos de usuarios, ventas y control de roles  
-- Diseño de base de datos (tablas, consultas, procedimientos almacenados)  
-- Uso de IA como apoyo en desarrollo y validación de código  
+- Desarrollo de un sistema **B2B multitenant** en ASP.NET Core MVC con SQL Server, diseñado para múltiples restaurantes con datos aislados por cliente.
+- Implementación de módulos de usuarios, personal, reservas, ventas, órdenes, facturación electrónica e inventario, con control de roles y permisos.
+- Arquitectura escalable que permite a cada restaurante gestionar sus propios productos, promociones y reportes.
+- Diseño optimizado de base de datos (tablas normalizadas, consultas eficientes, procedimientos almacenados para procesos críticos).
+- Uso de IA como apoyo en generación de código, validación y pruebas unitarias.
 </details>
 
 <details>
 <summary><strong>📌 Practicante Analista de Documentación</strong> – Devdatep Consulting E.I.R.L. <em>(2025)</em></summary>
 
-- Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi  
-- Elaboración de documentación técnica/funcional y manuales de usuario  
-- Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira)  
-- Benchmarking y análisis de modelo de negocio  
+- Levantamiento de procesos AS-IS / TO-BE con BPMN y Bizagi para estandarizar operaciones en proyectos de desarrollo web.
+- Elaboración de documentación técnica/funcional, manuales de usuario y diagramas de flujo, reduciendo tiempos de onboarding.
+- Gestión de requerimientos y seguimiento de sprints bajo Scrum (Jira), con reportes de avance e indicadores clave.
+- Benchmarking y análisis de modelo de negocio para mejoras en la plataforma Arena Freestyle, incluyendo propuesta funcional de chatbot.
 </details>
 
 <details>
 <summary><strong>📌 Practicante Administrativo / Soporte TI</strong> – Red Integral de Salud Lurín <em>(2025)</em></summary>
 
-- Soporte técnico de primer nivel (equipos, impresoras, redes)  
-- Gestión y actualización de bases de datos internas con Excel  
-- Elaboración de manuales de usuario y documentación de procesos  
-- Control de accesos y autenticación de usuarios  
+- Soporte técnico de primer nivel (equipos, impresoras, redes) y mantenimiento preventivo, asegurando continuidad operativa.
+- Gestión y actualización de bases de datos internas con Excel avanzado (Power Query, tablas dinámicas) para seguimiento de personal.
+- Creación de manuales de usuario y documentación de procesos que redujeron errores recurrentes.
+- Control de accesos y autenticación de usuarios en sistemas institucionales.
 </details>
 
 <details>
 <summary><strong>📌 Voluntariado Judicial (Apoyo Informático)</strong> – Corte Superior de Justicia <em>(2024)</em></summary>
 
-- Atención de incidencias y gestión de tickets en GLPI  
-- Soporte técnico de primer nivel y mantenimiento preventivo  
-- Digitalización y organización documental  
-- Gestión de accesos, firmas digitales y autenticación  
+- Atención de incidencias y gestión de tickets en GLPI, priorizando y resolviendo más de 50 solicitudes.
+- Soporte técnico de primer nivel y mantenimiento preventivo, garantizando disponibilidad de equipos.
+- Digitalización y organización documental, mejorando el acceso a la información institucional.
+- Gestión de accesos, firmas digitales y autenticación de usuarios.
 </details>
-
 
 
 
@@ -134,7 +145,7 @@ Egresada de Ingeniería de Sistemas e Informática, con enfoque en **análisis d
 
 
 
-##  GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DayannaRocca&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">

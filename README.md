@@ -96,7 +96,8 @@ Siempre en búsqueda de la mejora continua, integrando herramientas de IA genera
 
 <details>
 <summary><strong>📌 Desarrolladora Back-End Freelance</strong> – Sistema POS B2B para Restaurantes <em>(2025–2026)</em></summary>
-- Trabajo en equipo para el desarrollo de un sistema POS B2B multitenant.
+
+   - Trabajo en equipo para el desarrollo de un sistema POS B2B multitenant.
 - Desarrollo del backend en ASP.NET Core MVC y diseño de la BD con SQL Server, diseñado para múltiples restaurantes con datos aislados por cliente.  
 - Arquitectura escalable que permite incorporar **nuevos módulos o funcionalidades** según las necesidades de cada negocio.  
 - Implementación de módulos base: usuarios, personal, reservas, ventas, órdenes, control de roles y permisos.  
